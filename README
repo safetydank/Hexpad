@@ -1,0 +1,9 @@
+hexpad
+======
+
+Prototype of a Hex game written with Cinder
+
+Uses raycasts on a project cube grid to determine Hex coordinates.
+Inertial scrolling.
+GUI controller (same as netphyx)
+
